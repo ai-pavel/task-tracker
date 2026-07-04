@@ -1,3 +1,9 @@
+require 'simplecov'
+require 'simplecov-cobertura'
+SimpleCov.start do
+  formatter SimpleCov::Formatter::CoberturaFormatter
+end
+
 # frozen_string_literal: true
 
 require_relative "../lib/task_tracker"
