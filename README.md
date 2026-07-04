@@ -1,7 +1,7 @@
 # Task Tracker
 
-[![CI](https://github.com/pavel-genai/task-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/pavel-genai/task-tracker/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/pavel-genai/task-tracker/branch/main/graph/badge.svg)](https://codecov.io/gh/pavel-genai/task-tracker)
+[![CI](https://github.com/ai-pavel/task-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/task-tracker/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ai-pavel/task-tracker/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/task-tracker)
 
 A Ruby CLI task tracker with Kanban board support. Manage tasks with statuses, priorities, tags, due dates, and time tracking. Data is persisted in SQLite.
 
