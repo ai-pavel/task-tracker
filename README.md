@@ -1,7 +1,7 @@
 # Task Tracker
 
-[![CI](https://github.com/ai-pavel/task-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/task-tracker/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/ai-pavel/task-tracker/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/task-tracker)
+[![CI](https://github.com/ai-pavel/punchlist/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/punchlist/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ai-pavel/punchlist/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/punchlist)
 
 A Ruby CLI task tracker with Kanban board support. Manage tasks with statuses, priorities, tags, due dates, and time tracking. Data is persisted in SQLite.
 
